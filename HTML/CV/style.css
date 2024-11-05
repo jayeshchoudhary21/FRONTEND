@@ -1,0 +1,18 @@
+*{
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    display: flex;
+    
+}
+main{
+    border: 2px solid black;
+    margin: auto;
+    padding: 20px 80px;
+    width: 20%px;
+}
+h3{
+    color: green;
+}
